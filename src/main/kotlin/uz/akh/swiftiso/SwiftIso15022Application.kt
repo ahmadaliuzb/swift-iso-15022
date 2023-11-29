@@ -16,6 +16,6 @@ fun main(args: Array<String>) {
 class Controller() {
     @GetMapping
     fun get(): String {
-        return "hey"
+        return "heya"
     }
 }
